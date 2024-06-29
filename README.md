@@ -34,4 +34,4 @@
 - Ne öğrenirsen öğren; öğrendiğin şeyin kolaylığına bakmaksızın, mutlaka <br>
 yeni öğrendiğin şeylerle pratik yap. Basit örnekler yap.
 
-- Konuların bittikten sonra örneklere göz at.
+- Konuların bittikten sonra [örneklere](https://github.com/ArdaAlp/Python-Tutorial-List/blob/main/Python%20%C3%96rnekleri.rar) göz at.
