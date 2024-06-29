@@ -24,8 +24,7 @@
 <hr>
 
 ### UYARILAR:
-- Öğrenirken devamlı yapay zeka bir yerlerde açık olsun. 
-<br>
+- Öğrenirken devamlı yapay zeka bir yerlerde açık olsun. <br>
 Öğrenim esnasında interaktif şekilde sorular sor.
 
 - Eğer bir yerde takılırsan veya anlamazsan yardımcı yazılı kaynaklara bak.
